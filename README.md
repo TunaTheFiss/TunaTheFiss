@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TunaTheFiss
-- 👀 I’m interested in coding programming and musiz desgins
-- 🌱 I’m currently learning at a unisersity in Turkiye
+- 👀 I’m interested in coding, programming and composing
+- 🌱 I’m currently learning in Çanakkale 18 Mart University Computer Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :
 - mail : tunahasdemir05@gmail.com
